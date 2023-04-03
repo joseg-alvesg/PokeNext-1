@@ -1,38 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ <h1 align='center'>Trivia</h1>
+ <p align="center">
+  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
+  <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
+  <a href="#como-executar-o-projeto">Como Executar o Projeto</a> • 
+  <a href="#arquivos-desenvolvidos">Arquivos Desenvolvidos</a> • 
+  <a href="#contato">Contato</a>
+</p>
+<h1 align='center'>
+  <img src='https://github.com/carloshtbraga/PokeNext/blob/main/public/images/charizard.png?raw=true' width="200" heigth="100"/>
+</h1>
 
-## Getting Started
+<h1 align='center'>Sobre o projeto</h1>
 
-First, run the development server:
+
+<p align='center'>O projeto da Pokedex em Next.js é um aplicativo web que permite aos usuários explorar informações sobre diversos Pokemons. O projeto foi desenvolvido com o objetivo de fornecer uma interface amigável para consulta de dados dos Pokemons.</p>
+
+<p align='center'>O projeto conta com uma interface limpa e agradável, permitindo que os usuários possam facilmente buscar por informações sobre um determinado Pokemon.</p>
+
+<p align='center'>Uma das principais vantagens do uso do Next.js é a sua escalabilidade, permitindo que o projeto possa ser facilmente expandido com a adição de novas funcionalidades e melhorias na interface. Além disso, o projeto também utiliza a tecnologia de Server-Side Rendering, o que torna a experiência do usuário mais rápida e suave.</p>
+
+<p align='center'>Em resumo, o projeto da Pokedex em Next.js é uma aplicação web funcional e elegante que oferece aos usuários uma forma intuitiva de acessar informações sobre os Pokemons, além de ser uma excelente demonstração das possibilidades oferecidas pelo framework de desenvolvimento Next.js.</p>
+
+
+                                                - React
+                                                - Next
+                                                - CSS modules
+
+<h1 align='center'>Como executar o projeto</h1>
+
+<p align='center'>Com tudo instalado, siga os passos abaixo para executar o projeto:</p>
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+# Clone o repositório
+$ git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+# Acesse o diretório do projeto
+$ cd nome-do-repositorio
+
+# Faça a instalação do pacote NPM
+$ npm install
+
+# Crie sua Branch
+$ git checkout -b nome-da-sua-branch
+
+# Mão na massa!
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h1 align='center'>Arquivos Desenvolvidos</h1>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p align='center'>Uma página completa.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+</p>
+<h1 align='center'>Faça um fork do projeto</h1>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Crie uma nova branch com a sua funcionalidade: git checkout -b my-feature
+Faça commit das suas alterações: git commit -m 'feat: My new feature'
+Faça push para a sua branch: git push origin my-feature
+Abra um pull request para a branch principal do projeto
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<h1 align='center'>Contato</h1>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+<p align='center'>Para mais informações sobre o projeto, entre em contato comigo por meio das seguintes redes sociais:</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align='center'>E-mail: carloshtbraga@gmail.com</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align='center'>LinkedIn: https://www.linkedin.com/in/carloshtbraga</p>
+
+<p align='center'>Website: https://portf-lio-react-red.vercel.app</p>
+
